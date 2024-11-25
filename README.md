@@ -38,6 +38,6 @@ This repository contains solutions for:
 ---
 
 ### Additional Notes:
--Ensure you have the necessary libraries installed (e.g., pandas, scikit-learn, matplotlib, etc.) to run the Jupyter notebooks.
--For further assistance, check the respective notebooks for code and comments explaining each step.
+- Ensure you have the necessary libraries installed (e.g., pandas, scikit-learn, matplotlib, etc.) to run the Jupyter notebooks.
+- For further assistance, check the respective notebooks for code and comments explaining each step.
 
